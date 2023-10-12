@@ -1,13 +1,13 @@
 let skinViewer = new skinview3d.SkinViewer({
-    canvas: document.getElementById("skin_container"),
+    canvas: document.getElementById("skin_container_elytra"),
     width: 1024,
     height: 1024
 });
 
-skinViewer.loadCape("../cape.png");
-skinViewer.fov = 65;
+skinViewer.loadCape("../assets/cape.png", { backEquipment: "elytra" });
+skinViewer.fov = 66;
 
-skinViewer.loadSkin("../skin2.png");
+skinViewer.loadSkin("../assets/skin.png");
 
 skinViewer.camera.rotation.z = -3.05
 skinViewer.camera.rotation.y = -0.5
