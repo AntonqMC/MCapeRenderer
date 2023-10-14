@@ -5,8 +5,8 @@
 - background - `background.png`
 - cape - `cape.png`
 - skin - `skin.png`
-3. open terminal and type `npm i`
-4. type `node .` in terminal
+3. run `setup.bat`
+4. that should create `start.bat`, run it
 5. enjoy
 
 # Info:
