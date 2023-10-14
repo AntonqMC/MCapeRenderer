@@ -7,7 +7,7 @@ console.log('process started!');
 	console.log('doing cleanup...');
 	fs.remove('output.png');
 	fs.remove('render.png');
-    const browser = await puppeteer.launch({headless: true,args:["--disable-web-security"]});
+    const browser = await puppeteer.launch({args:["--disable-web-security"]});
     const page = await browser.newPage(); 
     const url = `file://${process.cwd()}/render/preview.html`
     const url2 = `file://${process.cwd()}/render/preview2.html`
