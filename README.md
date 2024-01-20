@@ -1,7 +1,7 @@
 # YOU NEED NODE.JS TO USE IT!
 ## Tutorial:
 1. download it
-2. drag the cape, background for cape render, background for elytra render and skin to `assets` folder, and rename them:
+2. drag the cape, background for cape render, background for elytra render and skin to `assets` folder, and rename them like this:
 - background (cape) - `backgroundcape.png`
 - background (elytra) - `backgroundelytra.png`
 - cape - `cape.png`
