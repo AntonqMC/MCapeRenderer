@@ -15,5 +15,5 @@ original: https://github.com/FelixmaxYT/Cape-Render-dingus
 
 if you want to use it, go ahead you dont need to even give credit
 
-if you need any help, add me on discord: `antonq.`
-https://discord.com/users/870999531452506182
+if you need any help, you can find my socials here: https://grosik.ovh/
+
